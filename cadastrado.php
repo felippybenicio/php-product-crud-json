@@ -29,7 +29,7 @@
         
        
         // Caminho do arquivo JSON
-        $caminhoArquivo = 'C:/xampp/htdocs/projeto-empresaOAK/dados.json';
+        $caminhoArquivo = './dados.json';
 
 
         // Lê o conteúdo atual do arquivo JSON
